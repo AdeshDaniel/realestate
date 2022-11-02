@@ -5,7 +5,7 @@ import { GoVerified } from "react-icons/go";
 import millify from "millify";
 
 import { baseUrl, fetchApi } from "../../utils/fetchApi";
-import ImageScrollbar from "../../components/ImageScrollBar";
+import ImageScrollbar from "../../components/ImageScrollbar";
 
 const PropertyDetails = ({
   propertyDetails: {
